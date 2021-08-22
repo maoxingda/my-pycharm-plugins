@@ -26,8 +26,6 @@ Custom File and IDE Icons for improved visual grepping.
 
 ### 1.4. HashiCorp Terraform / HCL language support
 
-see: [1.7. Rainbow Brackets](#17-rainbow-brackets)
-
 ### 1.5. IDE Eval Reset
 
 ### 1.6. Makefile Language
