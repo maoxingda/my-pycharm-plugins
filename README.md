@@ -7,6 +7,7 @@
   - [1.6. Makefile Language](#16-makefile-language)
   - [1.7. Rainbow Brackets](#17-rainbow-brackets)
   - [1.8. Tabnine - AI Code Completion](#18-tabnine---ai-code-completion)
+  - [1.9. Translation](#19-translation)
 
 ## 1. My PyCharm Plugins
 
@@ -33,3 +34,6 @@ Custom File and IDE Icons for improved visual grepping.
 ### 1.7. Rainbow Brackets
 
 ### 1.8. Tabnine - AI Code Completion
+
+### 1.9. [Translation](https://github.com/YiiGuxing/TranslationPlugin)
+
